@@ -1,6 +1,6 @@
 # Portfolio Website using Next.js 14 and Three.js 🌐🎨
 
-![Portfolio Website Screenshot](E:\nextjs-portfolio\screenshot.jpg)
+![Portfolio Website Screenshot](https://github.com/masterSoumojit007/nextjs-portfolio/blob/main/public/screenshot.jpg)
 
 Welcome to the repository for my portfolio website! This project showcases my skills and work using a blend of cutting-edge web technologies.
 
