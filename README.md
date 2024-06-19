@@ -12,13 +12,22 @@ Welcome to my portfolio website repository! This project showcases my work and s
 
 ## ✨ Features
 
-- **Interactive 3D Visuals**: 🌟 Engage visitors with dynamic 3D graphics and animations powered by Three.js.
-- **Responsive Design**: 📱 Ensures a consistent and user-friendly experience across desktops, tablets, and mobile devices.
-- **Smooth Animations**: 🎥 Adds fluid animations and transitions using Framer Motion.
-- **SEO Optimization**: 🔍 Improved search engine indexing and page loading speed with Next.js SSR.
-- **Project Showcases**: 📂 Detailed showcases of projects with descriptions, images, and interactive elements.
-- **Contact Form**: 📧 Allows visitors to reach out easily, fostering potential collaborations and opportunities.
-- **Blog Section (Optional)**: 📝 Share insights, tutorials, and industry updates, demonstrating expertise and thought leadership.
+- **👉 Hero**: Captivating introduction featuring a spotlight effect and dynamic background.
+- **👉 Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
+- **👉 3D Elements**: Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
+- **👉 Testimonials**: Dynamic testimonials area with scrolling or animated content for enhanced engagement.
+- **👉 Work Experience**: Prominent display of professional background for emphasis and credibility.
+- **👉 Canvas Effect**: Innovative use of HTML5 canvas to create visually striking effects in the "approaches" section.
+- **👉 Responsiveness**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
+- **👉 Code Architecture and Reusability**: Emphasizing clean, modular code architecture for maintainability and reusability.
+
+## 🌐 Deployment
+
+Deployed on [Vercel](https://vercel.com/). Click [here](https://your-vercel-url.vercel.app/) to view the live site.
+
+## 🚧 Contributing
+
+Contributions are welcome! Fork the repository and submit a pull request or open an issue for discussion.
 
 ## 📄 License
 
