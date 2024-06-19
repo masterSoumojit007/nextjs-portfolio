@@ -23,7 +23,7 @@ Welcome to the repository for my portfolio website! This project showcases my sk
 
 ## 🌐 Deployment
 
-The website is deployed on [Vercel](https://vercel.com/), leveraging its seamless deployment and hosting capabilities. You can view the live site [here]([https://your-vercel-url.vercel.app/](https://nextjs-portfolio-eight-coral.vercel.app/)).
+The website is deployed on [Vercel](https://vercel.com/), leveraging its seamless deployment and hosting capabilities. You can view the live site [here](https://nextjs-portfolio-eight-coral.vercel.app/).
 
 ## 🎨 Design Approach
 
@@ -52,4 +52,4 @@ If you have any inquiries, are interested in collaborating, or simply want to sa
 
 ---
 
-Thank you for visiting my portfolio website repository! Enjoy exploring my work.
+Thank you for visiting my portfolio website repository! Enjoy exploring my work
