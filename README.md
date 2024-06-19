@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Website using Next.js 14 and Three.js 🌐🎨
 
-## Getting Started
+Welcome to my portfolio website repository! This project showcases my work and skills using a combination of cutting-edge web technologies.
 
-First, run the development server:
+## 🚀 Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **[Next.js 14](https://nextjs.org/)**: 🌐 Server-side rendering for fast page loads and SEO benefits.
+- **[Three.js](https://threejs.org/)**: 🎮 Interactive 3D graphics and animations.
+- **[Aeternity UI](https://aeternityui.com/)**: 🎨 Modern and clean UI design.
+- **[Framer Motion](https://www.framer.com/motion/)**: 🖼️ Smooth animations and transitions.
+- **[Tailwind CSS](https://tailwindcss.com/)**: 🎨 Responsive and utility-first styling.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Interactive 3D Visuals**: 🌟 Engage visitors with dynamic 3D graphics and animations powered by Three.js.
+- **Responsive Design**: 📱 Ensures a consistent and user-friendly experience across desktops, tablets, and mobile devices.
+- **Smooth Animations**: 🎥 Adds fluid animations and transitions using Framer Motion.
+- **SEO Optimization**: 🔍 Improved search engine indexing and page loading speed with Next.js SSR.
+- **Project Showcases**: 📂 Detailed showcases of projects with descriptions, images, and interactive elements.
+- **Contact Form**: 📧 Allows visitors to reach out easily, fostering potential collaborations and opportunities.
+- **Blog Section (Optional)**: 📝 Share insights, tutorials, and industry updates, demonstrating expertise and thought leadership.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📄 License
 
-## Learn More
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-To learn more about Next.js, take a look at the following resources:
+## 📬 Get in Touch
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+For inquiries, collaborations, or just to say hi, feel free to reach out via email at [your-email@example.com](mailto:your-email@example.com).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for visiting my portfolio website repository! I hope you enjoy exploring my work.
