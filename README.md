@@ -1,5 +1,7 @@
 # Portfolio Website using Next.js 14 and Three.js 🌐🎨
 
+![Portfolio Website Screenshot](E:\nextjs-portfolio\screenshot.jpg)
+
 Welcome to the repository for my portfolio website! This project showcases my skills and work using a blend of cutting-edge web technologies.
 
 ## 🚀 Tech Stack
@@ -52,4 +54,4 @@ If you have any inquiries, are interested in collaborating, or simply want to sa
 
 ---
 
-Thank you for visiting my portfolio website repository! Enjoy exploring my work
+Thank you for visiting my portfolio website repository! Enjoy exploring my work.
