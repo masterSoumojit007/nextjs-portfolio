@@ -1,4 +1,7 @@
+[![Portfolio Website](https://example.com/path/to/your/image.png)](https://nextjs-portfolio-eight-coral.vercel.app/)
+<div style="text-align:center">
 # Portfolio Website using Next.js 14 and Three.js 🌐🎨
+</div>
 
 Welcome to the repository for my portfolio website! This project showcases my skills and work using a blend of cutting-edge web technologies.
 
