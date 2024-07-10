@@ -1,4 +1,4 @@
-[![Portfolio Website](https://github.com/masterSoumojit007/nextjs-portfolio/blob/main/public/portfolio1.png)](https://nextjs-portfolio-eight-coral.vercel.app/)
+[![Portfolio Website](https://github.com/masterSoumojit007/nextjs-portfolio/blob/main/public/portfolio2.png)](https://nextjs-portfolio-eight-coral.vercel.app/)
 # Portfolio Website using Next.js 14 and Three.js 🌐🎨
 
 Welcome to the repository for my portfolio website! This project showcases my skills and work using a blend of cutting-edge web technologies.
